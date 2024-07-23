@@ -1,0 +1,5 @@
+lab 3: logic
+exp1: To construct truth table Conjunction, Disjunction and Negation.
+exp2: To construct Truth table of implication and bicondition.
+exp3: To construct Truth table of given propositions.
+exp4: To check whether the given proposition is tautology, contradiction or contigency  
